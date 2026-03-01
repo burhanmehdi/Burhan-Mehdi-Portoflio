@@ -38,10 +38,10 @@ class BurhanMehdi:
 
 ## ⚡ GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=burhanmehdi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0d14&title_color=00e5ff&icon_color=7c3aed&text_color=e2e8f0" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmehdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0d14&title_color=00e5ff&text_color=e2e8f0" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=burhanmehdi&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanmehdi&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=burhanmehdi&theme=tokyonight&hide_border=true&background=0a0d14&stroke=00e5ff&ring=7c3aed&fire=f59e0b&currStreakLabel=00e5ff" />
+<img src="https://streak-stats.demolab.com?user=burhanmehdi&theme=tokyonight&hide_border=true" />
 
 </div>
 
