@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 <!-- About -->
 ```python
 class BurhanMehdi:
